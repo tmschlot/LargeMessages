@@ -1,0 +1,1 @@
+Written as an example for [this issue](https://github.com/Cimpress-MCP/serilog-sinks-awscloudwatch/issues/46).
